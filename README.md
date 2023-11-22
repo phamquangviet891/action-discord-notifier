@@ -1,5 +1,5 @@
 # Discord Notifier
-
+ư
 A GitHub Action to post message to discord using discord webhook
 
 This is a JavaScript action, so it should work on all machines include Windows, Linux, and macOS.
